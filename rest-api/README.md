@@ -1,3 +1,14 @@
+## _My Possible Further Projects that could use this project as foundation_
+##### - TODO Web App 
+ This idea looks like a classic start point in the community. Also, it looks less complex and easy to add own imagination.
+##### - Social Media Clone
+ Twitter or Facebook without complex features could be a good next step. Then creating ORM Relationships for Instagram clone seems fun.
+##### - E-commerce Store Clone
+ I already have Amazon Clone built with React.js in my profile. Building the backend of a familiar project might be better.
+##### - Movie API
+ After earning my solid confidence, this project may help others.
+
+<!--- 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -62,3 +73,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+--->
