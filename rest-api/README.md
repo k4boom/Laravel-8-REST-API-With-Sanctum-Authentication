@@ -1,3 +1,10 @@
+# About the Project
+This project is created to build a  REST API with Sanctum authentication by using PHP Laravel Framework. With some improvement in the security and more complex structure, this project could be used in further API projects.
+
+- It has only Product and User models.
+- Postman is used for testing.
+- MySQL is used for database.
+
 ## _My Possible Further Projects that could use this project as foundation_
 ##### - TODO Web App 
  This idea looks like a classic start point in the community. Also, it looks less complex and easy to add own imagination.
